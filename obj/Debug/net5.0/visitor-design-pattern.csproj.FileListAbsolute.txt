@@ -1,0 +1,16 @@
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\bin\Debug\net5.0\visitor-design-pattern.exe
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\bin\Debug\net5.0\visitor-design-pattern.deps.json
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\bin\Debug\net5.0\visitor-design-pattern.runtimeconfig.json
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\bin\Debug\net5.0\visitor-design-pattern.runtimeconfig.dev.json
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\bin\Debug\net5.0\visitor-design-pattern.dll
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\bin\Debug\net5.0\ref\visitor-design-pattern.dll
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\bin\Debug\net5.0\visitor-design-pattern.pdb
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\obj\Debug\net5.0\visitor-design-pattern.csprojAssemblyReference.cache
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\obj\Debug\net5.0\visitor-design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\obj\Debug\net5.0\visitor-design-pattern.AssemblyInfoInputs.cache
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\obj\Debug\net5.0\visitor-design-pattern.AssemblyInfo.cs
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\obj\Debug\net5.0\visitor-design-pattern.csproj.CoreCompileInputs.cache
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\obj\Debug\net5.0\visitor-design-pattern.dll
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\obj\Debug\net5.0\ref\visitor-design-pattern.dll
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\obj\Debug\net5.0\visitor-design-pattern.pdb
+D:\Hasan\projects\dotnet\Git\visitor-design-pattern\obj\Debug\net5.0\visitor-design-pattern.genruntimeconfig.cache
